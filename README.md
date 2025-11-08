@@ -51,4 +51,4 @@ We are a team of automation experts dedicated to providing safe, efficient, and 
 
 Ready to transform your Instagram experience? Reach out today to discover our services and start automating with confidence!
 
-Get in touch via Discord @aisocials for more information or visit ofmsurge.com 
+Get in touch via Discord @aisocials for more information or visit ofmsurge.com
